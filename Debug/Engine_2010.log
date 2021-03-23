@@ -1,0 +1,386 @@
+﻿  DXUT.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\core\dxut.cpp(696): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\core\dxut.cpp(697): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\core\dxut.cpp(4961): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(387): note: 'GetVersionExW' 선언을 참조하십시오.
+  AI.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Animation.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\animation.cpp(30): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\animation.cpp(39): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Asset.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\bullet.cpp(48): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\bullet.cpp(167): warning C4458: 'targetTile' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\bullet.h(28): note: 'Bullet::targetTile' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\bullet.cpp(167): warning C4458: 'targetPos' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\bullet.h(29): note: 'Bullet::targetPos' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\bullet.cpp(221): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\bullet.cpp(229): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\bullet.cpp(253): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DeployMap.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.cpp(23): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.cpp(54): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.cpp(67): warning C4458: 'ship' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.h(23): note: 'DeployMap::ship' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.cpp(69): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.cpp(70): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.cpp(108): warning C4458: 'ship' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.h(23): note: 'DeployMap::ship' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.cpp(146): warning C4458: 'ship' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\deploymap.h(23): note: 'DeployMap::ship' 선언을 참조하십시오.
+  DeployScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(83): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(84): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(89): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(148): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(149): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(165): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(166): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(180): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(188): warning C4456: 'x' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(165): note: 'x' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(189): warning C4456: 'y' 선언은 이전 로컬 선언을 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(166): note: 'y' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(193): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(241): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(242): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(312): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(330): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(331): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(337): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(338): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(339): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployscene.cpp(353): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DeployTile.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DeployUI.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployui.cpp(14): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\deployui.cpp(23): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SDKsound.cpp
+  SDKwavefile.cpp
+  EndingScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Entity.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\entity.cpp(81): warning C4458: 'pos' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\entity.h(23): note: 'Entity::pos' 선언을 참조하십시오.
+  GameManager.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\gamescene.cpp(95): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\gamescene.cpp(103): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\gamescene.cpp(125): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\gamescene.cpp(493): warning C4458: 'visible' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\entity.h(30): note: 'Entity::visible' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\gamescene.cpp(588): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HowToScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\howtoscene.cpp(17): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InfoScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InputScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\inputscene.cpp(27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\inputscene.cpp(76): warning C4244: '인수': 'int'에서 '_Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ]
+  IntroScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LoadingScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\loadingscene.cpp(53): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\mainscene.cpp(72): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\mainscene.cpp(82): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\mainscene.cpp(113): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  MapInfo.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Model.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\model.cpp(91): warning C4458: 'pos' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\entity.h(23): note: 'Entity::pos' 선언을 참조하십시오.
+  Particle.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RankingScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\rankingscene.cpp(50): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\rankingscene.cpp(51): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\rankingscene.cpp(62): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\rankingscene.cpp(108): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\scene.cpp(18): warning C4458: 'offset' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\scene.h(19): note: 'Scene::offset' 선언을 참조하십시오.
+  SelectScene.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\selectscene.cpp(25): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ship.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sprite.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StageMap.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(23): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(36): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(37): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(58): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(59): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(71): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(72): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(87): warning C4458: 'pos' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\entity.h(23): note: 'Entity::pos' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(93): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\stagemap.cpp(99): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Text.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\tile.cpp(39): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\timer.cpp(21): warning C4458: 'duration' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\timer.h(16): note: 'Timer::duration' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\timer.cpp(21): warning C4458: 'count' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\timer.h(17): note: 'Timer::count' 선언을 참조하십시오.
+  UI.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(28): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(41): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(42): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(43): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(56): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(57): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(69): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\ui.cpp(70): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UnitInfo.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  World.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\world.cpp(131): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DXUTenum.cpp
+  DXUTmisc.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\core\dxutmisc.cpp(1263): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: 'GetVersionExA' 선언을 참조하십시오.
+  DXUTcamera.cpp
+  DXUTgui.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\optional\dxutgui.cpp(6846): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\optional\dxutgui.h(109): note: 'CDXUTElement::iTexture' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\optional\dxutgui.cpp(6860): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\optional\dxutgui.h(110): note: 'CDXUTElement::iFont' 선언을 참조하십시오.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\optional\dxutgui.cpp(6860): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\asdf\documents\기능반\지방대회\지방모의_3\dxut\optional\dxutgui.h(111): note: 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  DXUTres.cpp
+  DXUTsettingsdlg.cpp
+  SDKmesh.cpp
+  SDKmisc.cpp
+  Engine.cpp
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(74): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(81): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(82): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(83): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\asdf\documents\기능반\지방대회\지방모의_3\define.h(84): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+AI.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  Engine_2010.vcxproj -> C:\Users\ASDF\Documents\기능반\지방대회\지방모의_3\Debug\Engine.exe
