@@ -1,0 +1,606 @@
+﻿  DXUT.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Core\DXUT.cpp(696,131): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Core\DXUT.cpp(696,187): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Core\DXUT.cpp(697,135): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Core\DXUT.cpp(697,195): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Core\DXUT.cpp(4961,13): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+  AI.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Animation.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Animation.cpp(39,35): warning C4244: '=': 'unsigned __int64'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Asset.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(31,7): error C2065: 'recursive_directory_iterator': 선언되지 않은 식별자입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(31,36): error C2146: 구문 오류: ';'이(가) 'iter' 식별자 앞에 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(31,56): error C2451: 'std::string' 형식의 조건식은 유효하지 않습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(31,41): message : 이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(32,3): error C2065: 'iter': 선언되지 않은 식별자입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(32,11): error C3861: 'recursive_directory_iterator': 식별자를 찾을 수 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(32,43): error C2146: 구문 오류: ')'이(가) 'iter' 식별자 앞에 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(32,47): error C2059: 구문 오류: ';'
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(32,43): error C2065: 'iter': 선언되지 않은 식별자입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(32,49): error C2059: 구문 오류: ')'
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(34,3): error C2275: 'std::string': 이 형식을 식으로 잘못 사용했습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : 'std::string' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(34,10): error C2146: 구문 오류: ')'이(가) 'extension' 식별자 앞에 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(35,7): error C2065: 'extension': 선언되지 않은 식별자입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(35,6): warning C4130: '==': 문자열 상수의 주소에서 논리 연산을 수행했습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(35,30): error C2065: 'extension': 선언되지 않은 식별자입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(35,49): warning C4130: '==': 문자열 상수의 주소에서 논리 연산을 수행했습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(36,20): error C2065: 'iter': 선언되지 않은 식별자입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(39,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(39,15): error C2065: 'paths': 선언되지 않은 식별자입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(40,13): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(40,13): error C2065: 'paths': 선언되지 않은 식별자입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(41,1): error C2059: 구문 오류: '}'
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(41,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(45,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(45,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Asset.cpp(53,7): error C3861: 'exists': 식별자를 찾을 수 없습니다.
+  Bullet.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.cpp(48,112): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.cpp(48,95): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.cpp(167,28): warning C4458: 'targetTile' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.h(28,8): message : 'Bullet::targetTile' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.cpp(167,45): warning C4458: 'targetPos' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.h(29,7): message : 'Bullet::targetPos' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.cpp(221,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.cpp(229,31): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Bullet.cpp(253,45): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DeployMap.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(23,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(23,27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(54,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(54,27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(67,32): warning C4458: 'ship' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.h(23,9): message : 'DeployMap::ship' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(69,12): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(70,12): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(108,32): warning C4458: 'ship' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.h(23,9): message : 'DeployMap::ship' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.cpp(146,36): warning C4458: 'ship' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployMap.h(23,9): message : 'DeployMap::ship' 선언을 참조하십시오.
+  DeployScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(83,10): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(84,10): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(89,25): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(89,22): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(148,13): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(149,13): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(165,10): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(166,10): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(180,27): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(180,24): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(188,15): warning C4456: 'x' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(165,8): message : 'x' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(189,15): warning C4456: 'y' 선언은 이전 로컬 선언을 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(166,8): message : 'y' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(193,34): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(193,31): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(241,9): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(242,9): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(312,43): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(312,40): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(330,54): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(331,54): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(337,51): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(338,61): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(339,61): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(353,37): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployScene.cpp(353,34): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DeployTile.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DeployUI.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployUI.cpp(14,29): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DeployUI.cpp(23,28): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SDKsound.cpp
+  SDKwavefile.cpp
+  EndingScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Entity.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Entity.cpp(81,29): warning C4458: 'pos' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Entity.h(23,7): message : 'Entity::pos' 선언을 참조하십시오.
+  GameManager.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\GameScene.cpp(95,62): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\GameScene.cpp(95,45): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\GameScene.cpp(103,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\GameScene.cpp(125,29): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\GameScene.cpp(493,44): warning C4458: 'visible' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Entity.h(30,7): message : 'Entity::visible' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\GameScene.cpp(588,57): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\GameScene.cpp(588,39): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HowToScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\HowToScene.cpp(17,28): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InfoScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InputScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\InputScene.cpp(27,28): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\InputScene.cpp(76,19): warning C4244: '인수': 'int'에서 '_Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ]
+  IntroScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LoadingScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\LoadingScene.cpp(53,77): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\MainScene.cpp(72,62): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\MainScene.cpp(72,45): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\MainScene.cpp(82,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\MainScene.cpp(113,65): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\MainScene.cpp(113,48): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  MapInfo.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Model.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Model.cpp(91,26): warning C4458: 'pos' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Entity.h(23,7): message : 'Entity::pos' 선언을 참조하십시오.
+  Particle.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RankingScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\RankingScene.cpp(50,32): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\RankingScene.cpp(51,33): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\RankingScene.cpp(62,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\RankingScene.cpp(108,24): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Scene.cpp(18,41): warning C4458: 'offset' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Scene.h(19,7): message : 'Scene::offset' 선언을 참조하십시오.
+  SelectScene.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\SelectScene.cpp(25,59): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\SelectScene.cpp(25,44): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ship.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sprite.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StageMap.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(23,92): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(23,65): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(36,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(37,12): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(58,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(59,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(71,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(72,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(87,30): warning C4458: 'pos' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Entity.h(23,7): message : 'Entity::pos' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(93,8): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\StageMap.cpp(99,8): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Text.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Tile.cpp(39,20): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Timer.cpp(21,25): warning C4458: 'duration' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Timer.h(16,21): message : 'Timer::duration' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Timer.cpp(21,39): warning C4458: 'count' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Timer.h(17,17): message : 'Timer::count' 선언을 참조하십시오.
+  UI.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(27,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(28,32): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(41,31): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(42,33): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(43,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(56,33): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(57,32): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(69,36): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\UI.cpp(70,35): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UnitInfo.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  World.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\World.cpp(131,38): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\World.cpp(131,24): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DXUTenum.cpp
+  DXUTmisc.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Core\DXUTmisc.cpp(1263,13): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  DXUTcamera.cpp
+  DXUTgui.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\DXUTgui.cpp(6846,37): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\DXUTgui.h(109,10): message : 'CDXUTElement::iTexture' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\DXUTgui.cpp(6860,34): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\DXUTgui.h(110,10): message : 'CDXUTElement::iFont' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\DXUTgui.cpp(6860,74): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\DXUTgui.h(111,11): message : 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+  컴파일하고 있습니다...
+  DXUTres.cpp
+  DXUTsettingsdlg.cpp
+  SDKmesh.cpp
+  SDKmisc.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\SDKmisc.cpp(144,30): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'LPARAM'입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\SDKmisc.cpp(144,30): warning C4477: 'swprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'LPARAM'입니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\DXUT\Optional\SDKmisc.cpp(144,30): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  Engine.cpp
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,22): error C2039: 'filesystem': 'std'의 멤버가 아닙니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\string(24): message : 'std' 선언을 참조하십시오.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(11,32): error C2871: 'filesystem': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,30): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(74,20): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(81,16): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(82,17): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(83,15): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(84,18): warning C4244: '+=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ASDF\Documents\D\기능반\지방대회\UnderTheSea\Define.h(115,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.

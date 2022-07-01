@@ -1,4 +1,4 @@
-#include "DXUT.h"
+	#include "DXUT.h"
 #include "World.h"
 #include "Asset.h"
 #include "LoadingScene.h"

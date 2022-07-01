@@ -1,0 +1,5 @@
+play 1081 318
+how to 1025 393
+info 1081 468
+ranking 998 543
+exit 1081 618

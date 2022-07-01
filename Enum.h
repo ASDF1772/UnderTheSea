@@ -38,14 +38,12 @@ enum UnitType
 	MINE
 };
 
-
 enum BulletType
 {
 	BASIC_BULLET,
 	BARRAGE_BULLET,
 	FLARE_BULLET
 };
-
 
 enum ParticleType
 {
